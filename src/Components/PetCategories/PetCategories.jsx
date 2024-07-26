@@ -13,7 +13,7 @@ function PetCategories() {
           </div>
           <h3 className="fs-4 text-primary">Pet Care</h3>
           <p>Find expert tips and resources to ensure your pets stay healthy and happy.</p>
-          <a href="#" className="btn btn-outline-primary">Learn More</a>
+          <a href="#" className="btn btn-primary">Learn More</a>
         </div>
         <div className="col d-flex flex-column align-items-center text-center">
           <div className="icon-container bg-success text-white p-3 rounded-circle mb-3">
@@ -21,7 +21,7 @@ function PetCategories() {
           </div>
           <h3 className="fs-4 text-success">Dog Training</h3>
           <p>Get training guides and advice to help your dog become well-behaved and happy.</p>
-          <a href="#" className="btn btn-outline-success">Learn More</a>
+          <a href="#" className="btn btn-success">Learn More</a>
         </div>
         <div className="col d-flex flex-column align-items-center text-center">
           <div className="icon-container bg-warning text-white p-3 rounded-circle mb-3">
@@ -29,7 +29,7 @@ function PetCategories() {
           </div>
           <h3 className="fs-4 text-warning">Cat Care</h3>
           <p>Discover everything you need to know to keep your feline friends healthy and content.</p>
-          <a href="#" className="btn btn-outline-warning">Learn More</a>
+          <a href="#" className="btn btn-warning">Learn More</a>
         </div>
         <div className="col d-flex flex-column align-items-center text-center">
           <div className="icon-container bg-danger text-white p-3 rounded-circle mb-3 mt-5">
@@ -37,7 +37,7 @@ function PetCategories() {
           </div>
           <h3 className="fs-4 text-danger">Adoption Services</h3>
           <p>Find your new furry friend and give them a loving home with our adoption services.</p>
-          <a href="#" className="btn btn-outline-danger">Learn More</a>
+          <a href="#" className="btn btn-danger">Learn More</a>
         </div>
         <div className="col d-flex flex-column align-items-center text-center ">
           <div className="icon-container bg-dark text-white p-3 rounded-circle mb-3 mt-5">
@@ -45,7 +45,7 @@ function PetCategories() {
           </div>
           <h3 className="fs-4 text-dark">Pet Accessories</h3>
           <p>Browse our range of pet accessories and find everything you need for your pets.</p>
-          <a href="#" className="btn btn-outline-dark">Learn More</a>
+          <a href="#" className="btn btn-dark">Learn More</a>
         </div>
       </div>
     </div>
